@@ -10,7 +10,7 @@ ScriptBlox: https://scriptblox.com
 # How to use  
 Get any roblox executor, ie. Glorious, Krnl, JJspolit, Synapse X (best)  
 Copy the loadstring and execute it: https://rkns.link/nwtac  
-Other GUI I made (basically just a reskin): https://rkns.link/gil8o  
+Other GUI I made (basically just a reskin. use if the first one doesnt work): https://rkns.link/gil8o  
 
 # Updates  
 The link will change one in a while (when I update it) so just  
